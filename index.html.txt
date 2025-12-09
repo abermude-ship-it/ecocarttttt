@@ -1,0 +1,25 @@
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>EcoCart Prototype</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header>
+<h1>EcoCart Prototype</h1>
+<p>A simple demo ecommerce webpage.</p>
+</header>
+
+
+<section class="products" id="products"></section>
+
+
+<footer>
+<p>EcoCart Prototype — Static Version for GitHub Pages</p>
+</footer>
+
+
+<script src="script.js"></script>
+</body>
+</html>
